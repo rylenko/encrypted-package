@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":[["PROOF_OF_WORK_DEFAULT_DIFFICULTY","Difficulty of proof of work. Also count of zeros in the start of proof of work string."],["SESSION_RANDOM_BYTES_DEFAULT_LENGTH","Length of session for AES encryption of all data."]]};

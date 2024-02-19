@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":[["DefaultConfig","Default config for `Package`."],["DefaultConfigBuilder","Builder for [`DefaultConfig`]. See [`DefaultConfig`] for more details."]],"trait":[["Config","Trait for configs with useful fields."]]};

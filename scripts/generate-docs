@@ -1,0 +1,8 @@
+#!/bin/sh
+
+cargo doc --no-deps --all-features \
+	&& mv -f ./target/doc . \
+	&& echo "Success." \
+	&& exit 0
+
+echo "Fail." && exit 1
